@@ -8,7 +8,7 @@ These are quick notes to understand basic networking concepts that are important
 
 A **network** is a group of connected devices that can communicate with each other.
 
-- Devices = computers, phones, servers, routers, etc.
+- Devices = computers, phones, servers, routers, etc. 
 - They communicate using **IP addresses** and **ports**.
 
 ---
